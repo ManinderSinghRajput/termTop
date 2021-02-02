@@ -1,7 +1,7 @@
 package main
 
 import (
-	"volthatop/pkg/ui"
+	"termTop/pkg/ui"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package disk
 
 import (
 	"fmt"
-	"volthatop/pkg/utils"
+	"termTop/pkg/utils"
 	"os"
 	"os/exec"
 	"strings"

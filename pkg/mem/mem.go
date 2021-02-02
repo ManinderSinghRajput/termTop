@@ -2,7 +2,7 @@ package mem
 
 import (
 	"fmt"
-	"volthatop/pkg/utils"
+	"termTop/pkg/utils"
 	"io/ioutil"
 	"os"
 	"strconv"

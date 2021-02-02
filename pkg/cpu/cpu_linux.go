@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"volthatop/pkg/utils"
+	"termTop/pkg/utils"
 )
 
 type CoreStat struct {

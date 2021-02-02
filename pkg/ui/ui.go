@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"fmt"
-	"volthatop/pkg/disk"
-	"volthatop/pkg/worker"
+	"termTop/pkg/disk"
+	"termTop/pkg/worker"
 	termui "github.com/gizak/termui/v3"
 	"github.com/gizak/termui/v3/widgets"
 )

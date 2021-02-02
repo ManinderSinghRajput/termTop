@@ -1,11 +1,11 @@
 package worker
 
 import (
-	"volthatop/pkg/cpu"
-	"volthatop/pkg/disk"
-	"volthatop/pkg/mem"
-	"volthatop/pkg/net"
-	"volthatop/pkg/temp"
+	"termTop/pkg/cpu"
+	"termTop/pkg/disk"
+	"termTop/pkg/mem"
+	"termTop/pkg/net"
+	"termTop/pkg/temp"
 	"sync"
 )
 
